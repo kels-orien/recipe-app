@@ -7,8 +7,10 @@
     "lint-staged": "^6.0.0",
     "material-ui": "^0.20.0",
     "material-ui-chip-input": "^0.18.5",
+    "material-ui-pagination": "^1.1.6",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-file-input": "^0.2.5",
     "react-form-validator-core": "^0.3.0",
     "react-material-ui-form-validator": "^1.0.4",
     "react-scripts": "1.0.17"
